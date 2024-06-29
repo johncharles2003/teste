@@ -50,7 +50,7 @@ int tentativa(string teste,string chave,string* naotem){
 int main() {
     int n,i;
     int limitador=0;
-    string naotem;
+    
 
     ifstream arquivo("palavras.txt");
 
