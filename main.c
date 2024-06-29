@@ -97,6 +97,7 @@ int main() {
        cout << " (" << naotem << ")" <<endl;
        cout << "GANHOU!";
     }
-    
+    //apenas mais 72 horas
+    cout << "brasil" << endl;
     return 0;
 }
